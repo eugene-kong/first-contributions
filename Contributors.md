@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [VictorZZZZ](https://github.com/VictorZZZZ)
 - [Ksenia](https://github.com/odnaks)
 - [Kozak](https://github.com/kozak325)
@@ -12075,3 +12075,4 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [usersblock](https://github.com/usersblock)
 - [Petros Papadopoulos](https://github.com/petran123)
 - Leong
+- Eugene
